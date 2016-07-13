@@ -2,4 +2,4 @@
 
 This is the repository for the source code of the tutorial:
 
-http://station.clancats.com/.../
+http://station.clancats.com/storing-shakespeares-hamlet-invisibly-inside-an-image/
